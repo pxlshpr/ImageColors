@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pxlshpr/ColorSugar",
       "state" : {
-        "revision" : "9fbeb899f499c410091330a5be0fb0e28ecd1bd0",
-        "version" : "0.0.4"
+        "revision" : "a61c56cb92b9680c3925dae59c5554a0245bb7e3",
+        "version" : "0.0.5"
       }
     }
   ],
