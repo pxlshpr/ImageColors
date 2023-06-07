@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "colorsugar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pxlshpr/ColorSugar",
+      "state" : {
+        "revision" : "d134d30e1937a1a1067b432fe10a7fa868d4c419",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
