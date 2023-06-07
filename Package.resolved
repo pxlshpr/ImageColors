@@ -1,12 +1,21 @@
 {
   "pins" : [
     {
+      "identity" : "colorkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pxlshpr/ColorKit",
+      "state" : {
+        "revision" : "9111d423e5ebed1014996253cd7f1856f0d8f558",
+        "version" : "1.2.0"
+      }
+    },
+    {
       "identity" : "colorsugar",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pxlshpr/ColorSugar",
       "state" : {
-        "revision" : "1642559188d05aaf09345b41bc48ee3722ea11cd",
-        "version" : "0.0.3"
+        "revision" : "9fbeb899f499c410091330a5be0fb0e28ecd1bd0",
+        "version" : "0.0.4"
       }
     }
   ],
